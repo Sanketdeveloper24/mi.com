@@ -1,0 +1,299 @@
+body {
+  margin: auto;
+  background-color: #f5f5f5;
+}
+a {
+  text-decoration: none;
+}
+#nav {
+  height: 40px;
+  line-height: 40px;
+  background-color: #212121;
+  z-index: 200;
+  position: relative;
+  min-width: 1226px;
+}
+#ton {
+  float: right;
+  margin-right: 150px;
+}
+
+.nav {
+  float: left;
+}
+.tab {
+  float: left;
+  font-family: ProximaNova, Arial, Sans-serif;
+  font-weight: 400;
+  margin-top: 10px;
+  margin-left: 40px;
+  font-size: 11px;
+  line-height: 1.5;
+  color: #b0b0b0;
+  position: relative;
+  border-right: 2px #b0b0b0;
+}
+.nab {
+  margin-left: 178px;
+}
+#sad > img {
+  width: 100%;
+  height: 770px;
+}
+#mad {
+  display: inline-block;
+  margin-top: 16px;
+  margin-left: 162px;
+  width: auto;
+}
+.rap {
+  float: left;
+  margin-left: 16px;
+}
+h3 {
+  overflow: hidden;
+  text-align: center;
+  font-size: 30px;
+  font-weight: 300;
+  color: #616161;
+  text-transform: uppercase;
+  line-height: 30px;
+}
+h3:after {
+  content: "";
+  display: inline-block;
+  width: 20%;
+  height: 1px;
+  background-color: #e0e0e0;
+  position: relative;
+  vertical-align: middle;
+}
+h3:before {
+  content: "";
+  display: inline-block;
+  width: 20%;
+  height: 1px;
+  background-color: #e0e0e0;
+  position: relative;
+  vertical-align: middle;
+}
+h3:after {
+  left: 0.5em;
+  margin-right: -50%;
+  margin-left: 20px;
+}
+h3:before {
+  right: 0.5em;
+  margin-left: -50%;
+  margin-right: 20px;
+}
+
+.cad {
+  display: inline-block;
+  margin-top: 50px;
+  width: 100%;
+  height: 260px;
+}
+.star {
+  float: left;
+  margin-top: 20px;
+  margin-left: 183px;
+  width: 612px;
+  height: 580px;
+}
+.star > img {
+  width: 100%;
+  height: 100%;
+}
+.start {
+  margin-left: 2px;
+}
+#tap {
+  height: 50%;
+}
+.tap {
+  float: left;
+  width: 50%;
+  height: 100%;
+}
+.tap > img {
+  width: 99%;
+  height: 99%;
+}
+.kit {
+  margin-top: 440px;
+  width: 100%;
+  height: 260px;
+}
+.slap {
+  margin-top: 25px;
+  margin-left: 25%;
+  height: 30px;
+  width: 50%;
+}
+.map {
+  margin-left: 55px;
+  font-size: 16px;
+  color: #757575;
+}
+.clap {
+  display: inline-block;
+  margin-top: 25px;
+  margin-left: 183px;
+  width: 1224px;
+  height: 614px;
+}
+.cap {
+  float: left;
+  width: 296px;
+  height: 609px;
+  margin-top: 12px;
+}
+.cap > img {
+  width: 100%;
+  height: 100%;
+}
+.nap {
+  float: left;
+  width: 924px;
+  height: 614px;
+}
+.box {
+  float: left;
+  width: 296px;
+  height: 300px;
+  margin-left: 12px;
+  margin-top: 12px;
+}
+.box > img {
+  width: 100%;
+  height: 100%;
+}
+.nit {
+  display: inline-block;
+  margin-top: 540px;
+  margin-left: 183px;
+  width: 1224px;
+  height: 470px;
+}
+.set {
+  float: left;
+  margin-top: 30px;
+  margin-left: 12px;
+  width: 600px;
+  height: 358px;
+  background-color: white;
+}
+.net {
+  margin-left: 0px;
+}
+.max {
+  width: 100%;
+  height: 252px;
+}
+.max > img {
+  width: 100%;
+  height: 100%;
+}
+.sony {
+  width: 100%;
+  height: 106px;
+}
+h4 {
+  margin-top: 15px;
+  margin-left: 15px;
+  font-size: 18px;
+  font-weight: 600;
+  color: #757575;
+}
+.sony > p {
+  font-size: 14px;
+  font-weight: 550;
+  margin-top: 15px;
+  margin-left: 15px;
+  color: #616161;
+}
+.over {
+  margin-left: 32px;
+  color: #ff6700;
+}
+.bit {
+  display: inline-block;
+  margin-top: 50px;
+  margin-left: 183px;
+  width: 1224px;
+  height: 470px;
+}
+.god {
+  float: left;
+  margin-top: 25px;
+  width: 398px;
+  height: 320px;
+  margin-left: 10px;
+}
+.devil {
+  margin-left: 0px;
+}
+.god > img {
+  width: 100%;
+  height: 100%;
+}
+.glass {
+  display: inline-block;
+  margin-top: 50px;
+  width: 1583px;
+  height: 470px;
+}
+.press {
+  margin-top: 25px;
+  width: 100%;
+  height: 600px;
+}
+.press > img {
+  width: 100%;
+  height: 100%;
+}
+.row {
+  margin-top: 300px;
+  width: 1583px;
+  height: 100px;
+  background-color: #fff;
+}
+.corn {
+  text-align: center;
+  margin-left: 20px;
+  float: left;
+  width: 500px;
+  height: 100px;
+}
+.one {
+  margin-top: 20px;
+  font-weight: 600;
+  color: #424242;
+}
+.two {
+  color: #b0b0b0;
+  font-size: 14px;
+  font-weight: 600;
+}
+footer {
+  margin-top: 20px;
+  width: 1583px;
+  height: 400px;
+  background-color: #212121;
+}
+.three {
+  text-align: center;
+  float: left;
+  width: 250px;
+  height: 300px;
+  font-size: 14px;
+  margin-top: 15px;
+  color: #b0b0b0;
+}
+dl {
+  margin-top: 50px;
+}
+.dl {
+  margin-top: 50px;
+}
