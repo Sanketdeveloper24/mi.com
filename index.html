@@ -4,6 +4,7 @@
 <head>
     <title>mi.com</title>
     <link rel="stylesheet" href="mi.css" type="text/css" />
+    <script src="mi.js"></script>
 </head>
 
 <body>
@@ -20,6 +21,18 @@
             </div>
         </div>
     </header>
+    <div id="coupon">
+        <button onClick="closeCoupon()" class="button">&times;</button>
+        <img class="gift" src="images/gift.png" alt="gift">
+        <img class="bg" src="images/bg.png" alt="">
+        <h2>DIWALI DHAMAKA</h2>
+        <p>You Can Get</p>
+        <div class="discount">75% off</div>
+        <p>On Your Purchase</p>
+        <div class="cum">Here is your code</div>
+        <div class="code">DIWALI 22</div>
+        <a href="#" class="btn">Redeem Now</a>
+    </div>
     <div id="sad">
         <img src="images/mi.jpg" alt="ad image">
     </div>
@@ -215,6 +228,10 @@
         </div>
 
     </footer>
+    <script>
+        window.onload = loadCoupon()
+    </script>
+
 </body>
 
 </html>

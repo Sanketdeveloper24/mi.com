@@ -297,3 +297,77 @@ dl {
 .dl {
   margin-top: 50px;
 }
+#coupon {
+  z-index: 100;
+  margin-left: 38%;
+  margin-bottom: 40%;
+  margin-top: 150px;
+  height: 500px;
+  width: 420px;
+  position: absolute;
+}
+.button {
+  margin-left: 395px;
+  margin-top: 25px;
+  position: absolute;
+}
+.gift {
+  width: 180px;
+  top: -80px;
+  left: 51%;
+  transform: translateX(-50%);
+  position: relative;
+}
+.bg {
+  background-color: #a3f9ff;
+  width: 100%;
+  height: 400px;
+  margin-top: -160px;
+}
+h2 {
+  margin-top: -74%;
+  margin-left: 13%;
+  font-size: xx-large;
+}
+#coupon p {
+  margin-left: 36%;
+  font-size: 18px;
+  color: #023047;
+  font-weight: bold;
+}
+.discount {
+  font-family: "Poppins", sans-serif;
+  font-size: 56px;
+  font-weight: 300;
+  color: #076170;
+  margin-left: 27%;
+}
+.code {
+  font-size: 45px;
+  font-weight: 900;
+  margin-left: 25%;
+  color: hsl(51, 58%, 30%);
+}
+.cum {
+  margin-left: 33%;
+  font-size: 22px;
+  color: #023047;
+  font-weight: bold;
+}
+.btn {
+  text-align: center;
+  text-decoration: none;
+  background: #d43b48;
+  padding: 16px;
+  display: inline-block;
+  width: 388px;
+  color: #fff;
+  margin-top: 6px;
+  font-size: 24px;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.btn:hover {
+  background: #e22535;
+}
