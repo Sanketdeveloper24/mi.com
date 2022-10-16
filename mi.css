@@ -33,6 +33,14 @@ a {
   position: relative;
   border-right: 2px #b0b0b0;
 }
+#icon {
+  position: absolute;
+  width: 30px;
+  cursor: pointer;
+  float: left;
+  margin-left: 30px;
+  margin-top: 3px;
+}
 .nab {
   margin-left: 178px;
 }
@@ -370,4 +378,13 @@ h2 {
 
 .btn:hover {
   background: #e22535;
+}
+
+body {
+  background-color: white;
+  color: black;
+}
+.mydark {
+  background-color: black;
+  color: white;
 }
