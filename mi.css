@@ -32,6 +32,17 @@ a {
   color: #b0b0b0;
   position: relative;
   border-right: 2px #b0b0b0;
+  cursor: pointer;
+}
+.mab {
+  color: black;
+  margin-top: 8px;
+}
+.mab:hover {
+  background-color: gray;
+}
+.cub {
+  margin-top: 0px;
 }
 #icon {
   position: absolute;
